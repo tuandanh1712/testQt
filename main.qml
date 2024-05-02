@@ -6,7 +6,7 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
-    property var test: test1
+    property var test: test1ChangaTuan1
     property var test2: test2
     property var test3: test3
     property var test4: test4
